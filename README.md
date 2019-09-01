@@ -1,5 +1,5 @@
 # free-SS
-*Updates every quarter of an hour
+* Updates every quarter of an hour
 
  Updata Time: 
 
