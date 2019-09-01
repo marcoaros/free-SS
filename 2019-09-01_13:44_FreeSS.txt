@@ -66,7 +66,7 @@
 'IP': '138.68.215.166', 'Port': '16032', 'Password': 'ssx.re-18483419', 'Crypton': 'aes-256-cfb', 'Time': '21:12:05', 'County': 'US
 'IP': '139.162.102.56', 'Port': '39584', 'Password': 'sBhXZa39rwme', 'Crypton': 'aes-256-cfb', 'Time': '21:12:15', 'County': 'JP
 'IP': '5.183.177.69', 'Port': '443', 'Password': 'www.xbvpn.com', 'Crypton': 'aes-256-cfb', 'Time': '21:12:12', 'County': 'JP
-'IP': '5.189.224.159', 'Port': '993', 'Password': 'Chup@k@<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2d4f5f6d">[email&#160;protected]</a>', 'Crypton': 'chacha20-ietf', 'Time': '21:12:13', 'County': 'RU
+'IP': '5.189.224.159', 'Port': '993', 'Password': 'Chup@k@<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a5c7d7e5">[email&#160;protected]</a>', 'Crypton': 'chacha20-ietf', 'Time': '21:12:13', 'County': 'RU
 'IP': '45.33.59.129', 'Port': '8097', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '21:12:12', 'County': 'US
 'IP': '165.22.55.153', 'Port': '12461', 'Password': 'isx.yt-73731346', 'Crypton': 'aes-256-cfb', 'Time': '21:12:06', 'County': 'SG
 'IP': '172.104.117.113', 'Port': '18939', 'Password': 'eesC7j9eM4yv', 'Crypton': 'aes-256-cfb', 'Time': '21:12:15', 'County': 'JP
