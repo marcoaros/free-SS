@@ -4,7 +4,7 @@
 * Updata Time: 
 ---
 ### Disclaimer:
-### $\color{red}{All accounts are from the Internet, non-profit purposes, only for everyone to learn and use, do not use for illegal purposes.}$
+$\color{red}{All accounts are from the Internet, non-profit purposes, only for everyone to learn and use, do not use for illegal purposes.}$
 
 
 
