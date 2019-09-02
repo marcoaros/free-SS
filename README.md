@@ -4,7 +4,7 @@
 #### Updating ...
 
 ---
-* Updata Time: [2019-09-02_17:15](https://github.com/Geek-007/free-SS/blob/master/2019-09-02_17:15_FreeSS.txt) (Local Time)
+* Updata Time: [2019-09-02_18:15](https://github.com/Geek-007/free-SS/blob/master/2019-09-02_18:15_FreeSS.txt) (Local Time)
 ---
 
 > Download - | [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases) |-| [MacOS](https://github.com/shadowsocks/shadowsocks-iOS/releases) |-| [Android](https://github.com/shadowsocks/shadowsocks-android/releases) |-| [IOS](https://itunes.apple.com/us/)|
