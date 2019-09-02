@@ -1,7 +1,7 @@
 
 # *Free SS*
 
-##### Updates every quarter of an hour
+##### updating
 
 ---
 * Updata Time: [2019-09-02_14:15](https://github.com/Geek-007/free-SS/blob/master/2019-09-02_14:15_FreeSS.txt)(Local Time)
