@@ -1,10 +1,10 @@
 
 # *Free SS*
 
-#### Next Update Time : 2019-09-04_08:15
+#### Next Update Time : 2019-09-04_09:15
 
 ---
-* Updata Time: [2019-09-03_22:15](https://github.com/Geek-007/free-SS/blob/master/2019-09-03_22:15_FreeSS.txt) (Local Time)
+* Updata Time: [2019-09-04_08:15](https://github.com/Geek-007/free-SS/blob/master/2019-09-04_08:15_FreeSS.txt) (Local Time)
 ---
 
 > Download - | [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases) |-| [MacOS](https://github.com/shadowsocks/shadowsocks-iOS/releases) |-| [Android](https://github.com/shadowsocks/shadowsocks-android/releases) |-| [IOS](https://itunes.apple.com/us/)|
