@@ -1,0 +1,9 @@
+'IP': '157.245.174.6', 'Port': '12756', 'Password': 'ssx.re-57323990', 'Crypton': 'aes-256-cfb', 'Time': '19:12:05', 'County': 'US
+'IP': '66.228.39.214', 'Port': '18794', 'Password': 'f55.fun-71526028', 'Crypton': 'aes-256-cfb', 'Time': '19:07:04', 'County': 'US
+'IP': '172.105.192.135', 'Port': '8099', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '19:12:17', 'County': 'JP
+'IP': '69.30.201.82', 'Port': '8097', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '19:12:09', 'County': 'US
+'IP': '45.56.80.191', 'Port': '8097', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '19:12:14', 'County': 'US
+'IP': '159.203.199.186', 'Port': '17974', 'Password': 'isx.yt-97228878', 'Crypton': 'aes-256-cfb', 'Time': '19:02:05', 'County': 'US
+'IP': '154.84.1.111', 'Port': '55113', 'Password': '4XVeP1', 'Crypton': 'aes-256-cfb', 'Time': '19:12:10', 'County': 'NL
+'IP': '66.175.208.176', 'Port': '10084', 'Password': 'f55.fun-16246219', 'Crypton': 'aes-256-cfb', 'Time': '19:12:07', 'County': 'US
+'IP': '38.240.0.142', 'Port': '233', 'Password': '12321', 'Crypton': 'aes-128-ctr', 'Time': '19:12:09', 'County': 'CA
