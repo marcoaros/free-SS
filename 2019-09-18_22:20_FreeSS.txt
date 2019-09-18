@@ -1,0 +1,14 @@
+'IP': '69.30.201.82', 'Port': '8097', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '22:12:08', 'County': 'US
+'IP': '138.68.220.184', 'Port': '11404', 'Password': 'ss8.pm-33953399', 'Crypton': 'aes-256-cfb', 'Time': '22:07:05', 'County': 'US
+'IP': '157.245.185.68', 'Port': '18925', 'Password': 'ssx.re-51625498', 'Crypton': 'aes-256-cfb', 'Time': '22:12:04', 'County': 'US
+'IP': '138.68.209.251', 'Port': '17076', 'Password': 'isx.yt-54333441', 'Crypton': 'aes-256-cfb', 'Time': '21:32:04', 'County': 'US
+'IP': '52.68.163.55', 'Port': '33991', 'Password': 'Hihjg5r50QRW', 'Crypton': 'aes-256-cfb', 'Time': '22:12:47', 'County': 'JP
+'IP': '157.230.244.210', 'Port': '10929', 'Password': 'isx.yt-04069991', 'Crypton': 'aes-256-cfb', 'Time': '22:07:06', 'County': 'SG
+'IP': '172.104.82.110', 'Port': '43410', 'Password': 'l11fPafPQIDW', 'Crypton': 'aes-256-cfb', 'Time': '21:32:10', 'County': 'JP
+'IP': '3.112.130.67', 'Port': '31573', 'Password': 'OAEGnYO4N1As', 'Crypton': 'aes-256-cfb', 'Time': '22:13:07', 'County': 'JP
+'IP': '138.68.215.72', 'Port': '16268', 'Password': 'isx.yt-36953122', 'Crypton': 'aes-256-cfb', 'Time': '21:52:04', 'County': 'US
+'IP': '172.105.199.16', 'Port': '20216', 'Password': 'jtVEgK4luyiG', 'Crypton': 'aes-256-cfb', 'Time': '22:12:31', 'County': 'JP
+'IP': '138.68.210.108', 'Port': '18047', 'Password': 'isx.yt-77620316', 'Crypton': 'aes-256-cfb', 'Time': '22:12:04', 'County': 'US
+'IP': '68.183.189.41', 'Port': '15390', 'Password': 'ss8.pm-44534313', 'Crypton': 'aes-256-cfb', 'Time': '21:42:07', 'County': 'SG
+'IP': '54.250.245.133', 'Port': '18359', 'Password': '97pxURcyaqLd', 'Crypton': 'aes-256-cfb', 'Time': '22:12:42', 'County': 'JP
+'IP': '68.183.47.30', 'Port': '16300', 'Password': 'ss8.pm-94186366', 'Crypton': 'aes-256-cfb', 'Time': '21:52:05', 'County': 'GB
