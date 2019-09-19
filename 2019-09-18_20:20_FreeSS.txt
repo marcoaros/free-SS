@@ -1,6 +1,0 @@
-'IP': '52.68.163.55', 'Port': '33991', 'Password': 'Hihjg5r50QRW', 'Crypton': 'aes-256-cfb', 'Time': '18:42:28', 'County': 'JP
-'IP': '172.105.199.16', 'Port': '20216', 'Password': 'jtVEgK4luyiG', 'Crypton': 'aes-256-cfb', 'Time': '19:12:41', 'County': 'JP
-'IP': '138.68.217.119', 'Port': '16887', 'Password': 'isx.yt-49490294', 'Crypton': 'aes-256-cfb', 'Time': '19:12:04', 'County': 'US
-'IP': '69.30.201.82', 'Port': '8097', 'Password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D', 'Crypton': 'aes-256-cfb', 'Time': '19:12:09', 'County': 'US
-'IP': '172.104.93.212', 'Port': '35808', 'Password': 'XTrWgRs4QUjZ', 'Crypton': 'aes-256-cfb', 'Time': '19:12:21', 'County': 'JP
-'IP': '157.245.192.82', 'Port': '10185', 'Password': 'isx.yt-62682814', 'Crypton': 'aes-256-cfb', 'Time': '19:12:06', 'County': 'SG
